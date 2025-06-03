@@ -36,20 +36,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tw8130&show_icons=true&theme=dark&hide_border=false)  
-![GitHub Streak](https://streak-stats.demolab.com?user=tw8130&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tw8130&layout=compact&theme=dark&hide_border=false)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tw8130&theme=radical&no-frame=false&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=tw8130&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
