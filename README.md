@@ -2,8 +2,8 @@
 
 👩‍💻 Hi, I’m **Tabitha Wanjiku Mwangi** — a coffee-fueled software engineer turning ideas into code!  
 🎯 **Fun Fact:** I once taught my dog to ‘help’ me debug (mostly by wagging😂)  
-📚 **Currently Learning:** Advanced TypeScript patterns & building scalable APIs with Django REST Framework  
-💬 **Ask Me About:** React tricks, clean CSS hacks, or the best Kenyan coffee blends ☕  
+📚 **Currently Learning:** Advanced TypeScript patterns,AI/ML & building scalable APIs with Django REST Framework  
+💬 **Ask Me About:** React/Django tricks, clean CSS hacks, or the best Kenyan coffee blends ☕  
 🌟 Always curious, always coding — let’s connect and build something awesome together!
 
 ---
